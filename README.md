@@ -2,7 +2,7 @@ Video presentasi: https://youtu.be/GANTI_DENGAN_LINK_UNLISTED_KAMU
 
 # API Toko Buku (UTS Komputasi Paralel dan Terdistribusi)
 
-Nama: ... | NIM: ...
+Nama: Abang Malik Syaidar | NIM: 231220010
 
 REST API toko buku: FastAPI + SQLite (aiosqlite), transaksi asinkron via BackgroundTasks, dan pengaman race condition dengan asyncio.Lock.
 
