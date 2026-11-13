@@ -1,4 +1,4 @@
-Video presentasi: https://youtu.be/GANTI_DENGAN_LINK_YOUTUBE_UNLISTED
+Video presentasi:
 
 # API Toko Buku (UTS Komputasi Paralel dan Terdistribusi)
 
