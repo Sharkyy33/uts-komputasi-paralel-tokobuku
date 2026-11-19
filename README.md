@@ -1,4 +1,4 @@
-Video presentasi:
+Video presentasi: https://youtu.be/i-igK9droWI
 
 # API Toko Buku (UTS Komputasi Paralel dan Terdistribusi)
 
